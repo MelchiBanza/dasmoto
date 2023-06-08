@@ -1,0 +1,44 @@
+:root {
+    --important-font: Arial, Helvetica, sans-serif;
+  }
+header{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-image: url(images/pattern.webp);
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    font-family: var(--important-font);
+}
+.title{
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    font-family: var(--important-font);
+}
+.t1{
+    background-color: mediumspringgreen;
+}
+.t2{
+    background-color: lightcoral;
+}
+.t3{
+    background-color: skyblue;
+}
+.price{
+    font-family: var(--important-font);
+    color: blue;
+    font-weight: bold;
+}
+.sous-title{
+    font-weight: bold;
+}
+footer{
+    background-color: khaki;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
